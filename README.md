@@ -4,3 +4,4 @@ A simple python script to generate XML payloads works for Java XMLDecoder based 
 You can use this script to generate XML payloads which you can use with XMLDecoder java function.
 
 
+![XMLDecoder](Java-XMLDecoder.png)
